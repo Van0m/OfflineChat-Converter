@@ -28,6 +28,6 @@ Navigate to the directory where you saved the file.
 
 Run the application with this command:
 
-python app.py
+python converter_app.py
 
 Open your web browser and go to http://127.0.0.1:5000 to use the converter.
