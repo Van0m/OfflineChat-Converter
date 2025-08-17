@@ -4,30 +4,30 @@ This is a simple Python-based web application that converts strings into a phone
 
 Features
 
-    Convert: Transforms a string like "hello" into a phonetic representation like "huh euh luh luh oh".
+Convert: Transforms a string like "hello" into a phonetic representation like "huh euh luh luh oh".
 
-    Reverse: Converts the phonetic string back to the original text.
+Reverse: Converts the phonetic string back to the original text.
 
-    Copy: A convenient "Copy to Clipboard" button for quick use.
+Copy: A convenient "Copy to Clipboard" button for quick use.
 
 Installation
 
-    Make sure you have Python 3 installed.
+Make sure you have Python 3 installed.
 
-    Install the Flask library, which powers the web interface:
+Install the Flask library, which powers the web interface:
 
     pip install Flask
 
 How to Run
 
-    Save the code as a Python file (e.g., app.py).
+Save the code as a Python file (e.g., app.py).
 
-    Open your terminal or command prompt.
+Open your terminal or command prompt.
 
-    Navigate to the directory where you saved the file.
+Navigate to the directory where you saved the file.
 
-    Run the application with this command:
+Run the application with this command:
 
-    python app.py
+python app.py
 
-    Open your web browser and go to http://127.0.0.1:5000 to use the converter.
+Open your web browser and go to http://127.0.0.1:5000 to use the converter.
