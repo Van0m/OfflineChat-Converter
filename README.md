@@ -4,7 +4,7 @@ This is a simple Python-based web application that converts strings into a phone
 
 Features
 
-Convert: Transforms a string like "hello" into a phonetic representation like "huh euh luh luh oh".
+Convert: Transforms a string like "hello" into a phonetic representation like "huh euh luh luh ouh".
 
 Reverse: Converts the phonetic string back to the original text.
 
